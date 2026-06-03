@@ -8,7 +8,7 @@
 | Duración | 4 horas |
 | Modalidad | Virtual sincrónico |
 | Prerrequisitos | Ninguno · solo un navegador actualizado y conexión a internet |
-| Participante |  |
+| Participante | Paola Cantor |
 
 </div>
 
@@ -327,7 +327,7 @@ Es el punto de entrada del proyecto: el archivo que se ejecuta cuando alguien es
 Antes de instalar nada, guarda el primer registro de que estás aquí. Abre `README.md` en el editor, desplázate al inicio  y agrega en la tabla inicial tu nombre. La línea se ve así:
 
 ```
-| Participante | Paola Cantor |
+| Participante |Paola Cantor|
 ```
 
 Guarda con `Ctrl + S`. Luego en la terminal:
